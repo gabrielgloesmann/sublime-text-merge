@@ -1,2 +1,4 @@
-# sublime-text-merge
-Configuration for sublime text and sublime merge.
+# Sublime Text and Merge Configuration
+
+## Introduction
+This are my configuration files for Sublime Text and Sublime Merge.
